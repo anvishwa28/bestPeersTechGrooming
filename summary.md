@@ -36,3 +36,11 @@ Choose **Vite** if:
 
 Choose **CRA** if:
 - You want React-specific tooling, stability, and community support
+
+
+Here is some Links to learn more about
+- https://react.dev/learn/build-a-react-app-from-scratch
+- https://vite.dev/guide
+- https://saurabhnativeblog.medium.com/vite-vs-create-react-app-choosing-the-right-tool-for-your-react-js-project-8824411247cd
+- https://dev.to/ajeetraina/how-to-migrate-from-create-react-app-to-vite-3b8m
+- https://media2.dev.to/cdn-cgi/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7b1g5g3pfq8hk2a9ddl6.png
